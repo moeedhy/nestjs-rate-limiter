@@ -19,7 +19,7 @@ Make sure to also have `express-rate-limit` installed, as it is a peer dependenc
    Import the `RateLimiterModule` into your desired Nest.js module and register it with the desired configuration.
 
 ```typescript
-import { RateLimiterModule } from 'nestjs-rate-limiter';
+import { RateLimiterModule } from '@moeed/nestjs-rate-limiter';
 
 @Module({
   imports: [
