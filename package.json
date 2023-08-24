@@ -10,7 +10,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "url": "",
+    "url": "https://github.com/moeedhy/nestjs-rate-limiter",
     "type": "git"
   },
   "license": "MIT",
